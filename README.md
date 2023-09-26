@@ -1,5 +1,5 @@
-# PAAS-TA-CAAS-DASHBOARD
-  PaaS-TA 에서 제공하는 Container 서비스의 관리와 모니터링을 용이하게 하기 위하여 제공하는 UI 서비스이다.
+# CAAS-DASHBOARD
+  K-PaaS 에서 제공하는 Container 서비스의 관리와 모니터링을 용이하게 하기 위하여 제공하는 UI 서비스이다.
 
 ## 개발 환경
 - JDK 8
